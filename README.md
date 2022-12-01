@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Here is how it looks
 
-![screenshot]('./../screenshot.png)
+![screenshot](./screenshot.png)
 
 ## Available Scripts
 
